@@ -1,0 +1,173 @@
+District name	City	County name
+Aberdeen School Dist	Aberdeen	Monroe
+Alcorn School Dist	Corinth	Alcorn
+Amite Co School Dist	Liberty	Amite
+Amory School Dist	Amory	Monroe
+Attala Co School Dist	Kosciusko	Attala
+Baldwyn School District	Baldwyn	Lee
+Bay St Louis Waveland School Dist	Bay St Louis	Hancock
+Benoit School District	Benoit	Bolivar
+Benton Co School Dist	Ashland	Benton
+Biloxi Public School Dist	Biloxi	Harrison
+Bogue Chitto Elementary School	Philadelphia	Neshoba
+Booneville School Dist	Booneville	Prentiss
+Brookhaven School Dist	Brookhaven	Lincoln
+Calhoun Co School Dist	Pittsboro	Calhoun
+Canton Public School Dist	Canton	Madison
+Carroll County School Dist	Carrollton	Carroll
+Chickasaw Co School Dist	Houlka	Chickasaw
+Choctaw Central High School	Choctaw	Neshoba
+Choctaw Central Middle School	Choctaw	Neshoba
+Choctaw Co School Dist	Ackerman	Choctaw
+Claiborne Co School Dist	Port Gibson	Claiborne
+Clarksdale Municipal School Dist	Clarksdale	Coahoma
+Clay Co School Dist	West Point	Clay
+Cleveland School Dist	Cleveland	Bolivar
+Clinton Public School Dist	Clinton	Hinds
+Coahoma Ahs School District	Clarksdale	Coahoma
+Coahoma County School District	Clarksdale	Coahoma
+Coffeeville School Dist	Coffeeville	Yalobusha
+Columbia School District	Columbia	Marion
+Columbus Municipal School Dist	Columbus	Lowndes
+Conehatta Elementary School	Conehatta	Newton
+Copiah Co School Dist	Hazlehurst	Copiah
+Corinth School Dist	Corinth	Alcorn
+Covington Co Schools	Collins	Covington
+Desoto Co School Dist	Hernando	Desoto
+Drew School Dist	Drew	Sunflower
+Durant Public School Dist	Durant	Holmes
+East Jasper Consolidated School Dist	Heidelberg	Jasper
+East Tallahatchie Consol School Dist	Charleston	Tallahatchie
+Ellisville State School Adm	Ellisville	Jones
+Enterprise School Dist	Enterprise	Clarke
+Forest Municipal School Dist	Forest	Scott
+Forrest County Ag High School	Brooklyn	Forrest
+Forrest County School District	Hattiesburg	Forrest
+Franklin Co School Dist	Meadville	Franklin
+George Co School Dist	Lucedale	George
+Greene County School District	Leakesville	Greene
+Greenville Public Schools	Greenville	Washington
+Greenwood Public School District	Greenwood	Leflore
+Grenada School Dist	Grenada	Grenada
+Gulfport School Dist	Gulfport	Harrison
+Hancock Co School Dist	Kiln	Hancock
+Harrison Co School Dist	Gulfport	Harrison
+Hattiesburg Public School Dist	Hattiesburg	Forrest
+Hazlehurst City School District	Hazlehurst	Copiah
+Hinds Co School Dist	Raymond	Hinds
+Hinds County Ahs School District	Utica	Copiah
+Hollandale School Dist	Hollandale	Washington
+Holly Springs School Dist	Holly Springs	Marshall
+Holmes Co School Dist	Lexington	Holmes
+Houston School Dist	Houston	Chickasaw
+Hudspeth Center Administration	Whitfield	Rankin
+Humphreys Co School Dist	Belzoni	Humphreys
+Indianola School Dist	Indianola	Sunflower
+Itawamba Co School Dist	Fulton	Itawamba
+Jackson Co School Dist	Vancleave	Jackson
+Jackson Public School Dist	Jackson	Hinds
+Jefferson Co School Dist	Fayette	Jefferson
+Jefferson Davis Co School Dist	Prentiss	Jefferson Davis
+Jones Co School Dist	Ellisville	Jones
+Kemper Co School Dist	Dekalb	Kemper
+Kosciusko School District	Kosciusko	Attala
+Lafayette Co School Dist	Oxford	Lafayette
+Lamar County School District	Purvis	Lamar
+Lauderdale Co School Dist	Meridian	Lauderdale
+Laurel School District	Laurel	Jones
+Lawrence Co School Dist	Monticello	Lawrence
+Leake Co School Dist	Carthage	Leake
+Lee County School District	Tupelo	Lee
+Leflore Co School Dist	Greenwood	Leflore
+Leland School Dist	Leland	Washington
+Lincoln Co School Dist	Brookhaven	Lincoln
+Long Beach School Dist	Long Beach	Harrison
+Louisville Municipal School Dist	Louisville	Winston
+Lowndes Co School Dist	Columbus	Lowndes
+Lumberton Public School District	Lumberton	Lamar
+Madison Co School Dist	Flora	Madison
+Magnolia Grove School	Meridian	Lauderdale
+Marion Co School Dist	Columbia	Marion
+Marshall Co School Dist	Holly Springs	Marshall
+Mccomb School District	Mccomb	Pike
+Mdhs Division Of Youth Services	Jackson	Hinds
+Meridian Public School Dist	Meridian	Lauderdale
+Mississippi State Hospital	Whitfield	Rankin
+Monroe Co School Dist	Amory	Monroe
+Montgomery Co School Dist	Winona	Montgomery
+Moss Point Separate School Dist	Moss Point	Jackson
+Mound Bayou Public School	Mound Bayou	Bolivar
+Ms School For Math And Sc	Columbus	Lowndes
+Ms School For The Arts	Brookhaven	Lincoln
+Ms School For The Blind	Jackson	Hinds
+Ms School For The Deaf	Jackson	Hinds
+Natchez-Adams School Dist	Natchez	Adams
+Neshoba County School District	Philadelphia	Neshoba
+Nettleton School Dist	Nettleton	Lee
+New Albany Public Schools	New Albany	Union
+Newton County School District	Decatur	Newton
+Newton Municipal School District	Newton	Newton
+North Bolivar School District	Shelby	Bolivar
+North Panola School District	Sardis	Panola
+North Pike School Dist	Summit	Pike
+North Tippah School Dist	Tiplersville	Tippah
+Noxubee County School District	Macon	Noxubee
+Ocean Springs School Dist	Ocean Springs	Jackson
+Okolona Separate School Dist	Okolona	Chickasaw
+Oktibbeha County School District	Starkville	Oktibbeha
+Oxford School District	Oxford	Lafayette
+Pascagoula School Dist	Pascagoula	Jackson
+Pass Christian Public School Dist	Pass Christian	Harrison
+Pearl Public School Dist	Pearl	Rankin
+Pearl River Co School Dist	Carriere	Pearl River
+Pearl River Elementary School	Choctaw	Neshoba
+Perry Co School Dist	New Augusta	Perry
+Petal School Dist	Petal	Forrest
+Philadelphia Public School Dist	Philadelphia	Neshoba
+Picayune School Dist	Picayune	Pearl River
+Pontotoc City Schools	Pontotoc	Pontotoc
+Pontotoc Co School Dist	Pontotoc	Pontotoc
+Poplarville Separate School Dist	Poplarville	Pearl River
+Prentiss Co School Dist	Booneville	Prentiss
+Quitman Co School Dist	Marks	Quitman
+Quitman School Dist	Quitman	Clarke
+Rankin Co School Dist	Brandon	Rankin
+Red Water Elementary School	Carthage	Leake
+Richton School Dist	Richton	Perry
+Roger Amos Mcmurtry Adm School District	Gulfport	Harrison
+Scott Co School Dist	Forest	Scott
+Senatobia Municipal School Dist	Senatobia	Tate
+Shaw School District	Shaw	Bolivar
+Simpson Co School Dist	Mendenhall	Simpson
+Smith Co School Dist	Raleigh	Smith
+South Delta School District	Rolling Fork	Sharkey
+South Middle School Regional Center	Long Beach	Harrison
+South Panola School District	Batesville	Panola
+South Pike School Dist	Magnolia	Pike
+South Tippah School Dist	Ripley	Tippah
+Standing Pine Elementary School	Carthage	Leake
+Starkville School District	Starkville	Oktibbeha
+Stone Co School Dist	Wiggins	Stone
+Stovall Special Education Complex Administration	Oxford	Lafayette
+Sunflower Co School Dist	Indianola	Sunflower
+Tate Co School Dist	Senatobia	Tate
+Tishomingo Co Sp Mun School Dist	Iuka	Tishomingo
+Tucker Elementary School	Philadelphia	Neshoba
+Tunica County School District	Tunica	Tunica
+Tupelo Public School Dist	Tupelo	Lee
+Union Co School Dist	New Albany	Union
+Union Public School Dist	Union	Newton
+Vicksburg Warren School Dist	Vicksburg	Warren
+Walthall Co School Dist	Tylertown	Walthall
+Water Valley School District	Water Valley	Yalobusha
+Wayne Co School Dist	Waynesboro	Wayne
+Webster Co School Dist	Eupora	Webster
+West Bolivar School Dist	Rosedale	Bolivar
+West Jasper Consolidated Schools	Bay Springs	Jasper
+West Point School Dist	West Point	Clay
+West Tallahatchie School District	Webb	Tallahatchie
+Western Line School District	Avon	Washington
+Wilkinson Co School Dist	Woodville	Wilkinson
+Winona Separate School Dist	Winona	Montgomery
+Yazoo City Municipal School Dist	Yazoo City	Yazoo
+Yazoo Co School Dist	Yazoo City	Yazoo
