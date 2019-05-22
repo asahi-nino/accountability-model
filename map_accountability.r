@@ -59,7 +59,7 @@ colnames(ms_stay_county_avg) <- c("GEOID","stay_avg")
 
 ##################################################
 ## 3. set api key
-api_key <- "d8be0f9922b97970583f64d62e7e4116d6f37dc9"
+api_key <- "API-KEY"
 census_api_key(api_key, install = TRUE, overwrite = TRUE)
 readRenviron("~/.Renviron")
 
